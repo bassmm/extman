@@ -1,0 +1,12 @@
+[project]
+name = "extman"
+version = "0.1.0"
+description = "VSCodium (+ forks) extensions manager"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "click>=8.1.8",
+]
+
+[project.scripts]
+extman = "main:cli"
