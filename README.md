@@ -1,6 +1,3 @@
-Sure! Here's the full markdown content ready to be copied and pasted into a `README.md` file.
-
-```markdown
 # extman - Python CLI Tool for Managing Extensions in VSCodium and Forks
 
 `extman` is a Python-based command-line tool designed to help users manage extensions for VSCodium and its forks. With `extman`, you can install, uninstall, list, and update extensions easily, all through the terminal.
