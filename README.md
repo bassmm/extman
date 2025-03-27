@@ -130,5 +130,3 @@ For questions or feedback, please open an issue on the GitHub repository.
 
 **Note**: `extman` is designed for use with VSCodium and its forks. For more information on VSCodium, visit [https://vscodium.com/](https://vscodium.com/).
 ```
-
-Just copy and paste this into a new `README.md` file, and you'll have a fully formatted markdown document for your Python tool, `extman`.
