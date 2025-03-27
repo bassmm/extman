@@ -129,3 +129,5 @@ If you have any questions or feedback, please open an issue on the GitHub reposi
 ---
 
 **Note**: `extman` is designed for use with VSCodium and its forks. For more information on VSCodium, visit [https://vscodium.com/](https://vscodium.com/).
+
+**Disclaimer**: `extman` cannot guarantee perfect extension compatibility, not all extensions are created equal :(.
