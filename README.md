@@ -124,9 +124,8 @@ Contributions are welcome! If you'd like to contribute to `extman`, please follo
 
 ## Contact
 
-For questions or feedback, please open an issue on the GitHub repository.
+If you have any questions or feedback, please open an issue on the GitHub repository.
 
 ---
 
 **Note**: `extman` is designed for use with VSCodium and its forks. For more information on VSCodium, visit [https://vscodium.com/](https://vscodium.com/).
-```
