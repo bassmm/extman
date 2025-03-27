@@ -56,7 +56,7 @@ extman install <extension-id> <version>
 Example:
 
 ```bash
-extman install ms-python.python  	2025.3.2025031701
+extman install ms-python.python 2025.3.2025031701
 ```
 
 To install an extension from a local `.vsix` file:
